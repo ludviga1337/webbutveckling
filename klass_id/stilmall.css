@@ -1,0 +1,12 @@
+
+  h1 {
+    /* egenskap:värde*/
+    color:red;
+
+  }
+  /* vi kan skapa klasser
+     som har speciella
+     egenskaper */
+  .yellow {
+    color:yellow;
+  }

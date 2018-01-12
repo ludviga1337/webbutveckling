@@ -1,0 +1,33 @@
+ body {
+  background-color: pink;
+}
+ .container {
+  display:flex;
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+  width: 600px;
+  height: 600px;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: space-around;
+}
+ .rad {
+  display:flex;
+
+  background-color: red;
+  border-style: solid;
+  /* vidd och höjd följer innehållet*/
+  /*width: 50px;
+  height: 50px;*/
+
+  align-items: center;
+}
+
+ .item{
+  /*width:50px;
+  height:50px;*/
+  background-color: blue;
+  border-style: solid;
+  border-color: white;
+}
